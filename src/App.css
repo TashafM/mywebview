@@ -8,3 +8,8 @@
 .App::-webkit-scrollbar{
   display: none;
 }
+
+.header-main{
+  position: sticky;
+  top: 0;
+}

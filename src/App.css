@@ -1,15 +1,19 @@
-.App{
-  background: yellow;
+.App {
+  background: #ff0;
   max-width: 440px;
-  width: 100%;
   overflow: auto;
+  width: 100%;
+  padding-top: 25%;
+
 }
 
-.App::-webkit-scrollbar{
+.App::-webkit-scrollbar {
   display: none;
 }
 
-.header-main{
-  position: sticky;
+.header-main {
+  position: fixed;
   top: 0;
+  width: 100%;
+  background: white;
 }

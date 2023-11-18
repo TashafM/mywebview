@@ -4,3 +4,7 @@
   width: 100%;
   overflow: auto;
 }
+
+.App::-webkit-scrollbar{
+  display: none;
+}

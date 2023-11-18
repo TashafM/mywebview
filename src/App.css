@@ -1,9 +1,8 @@
 .App {
   background: #ff0;
-  max-width: 440px;
+  max-width: 450px;
   overflow: auto;
   width: 100%;
-  padding: 0 20px;
 
 }
 
